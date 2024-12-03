@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KBM.UI
+build_property.RootNamespace = KBM.UI
+build_property.ProjectDir = C:\Users\monuk\OneDrive\Desktop\Office work\KBM.UI responsive\KBM.UI 11-11-2024\KBM.UI\KBM.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\monuk\OneDrive\Desktop\Office work\KBM.UI responsive\KBM.UI 11-11-2024\KBM.UI\KBM.UI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/AmleshKumarMahto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbWxlc2hLdW1hck1haHRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/ArjunMahto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcmp1bk1haHRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/BaijnathMahto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYWlqbmF0aE1haHRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/BirjuMahto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaXJqdU1haHRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Empolyment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBvbHltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Environment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbnZpcm9ubWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/EriticationOfSocialEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcml0aWNhdGlvbk9mU29jaWFsRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Event.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Health.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWFsdGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/OurJourney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPdXJKb3VybmV5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/PradeepKumar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFkZWVwS3VtYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/Sports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Home/VijayKumarMahto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWpheUt1bWFyTWFodG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monuk/OneDrive/Desktop/Office work/KBM.UI responsive/KBM.UI 11-11-2024/KBM.UI/KBM.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ho1d4vw5yh

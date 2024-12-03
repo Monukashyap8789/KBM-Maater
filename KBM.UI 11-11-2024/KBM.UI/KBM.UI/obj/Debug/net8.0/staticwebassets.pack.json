@@ -1,0 +1,1241 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KBM.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KBM.UI.zmpsg6e85h.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.18 (1).jpeg",
+      "PackagePath": "staticwebassets\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.18 (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.18 (2).jpeg",
+      "PackagePath": "staticwebassets\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.18 (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.18.jpeg",
+      "PackagePath": "staticwebassets\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.18.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.19.jpeg",
+      "PackagePath": "staticwebassets\\KBMImages\\WhatsApp Image 2024-11-07 at 15.05.19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\KBMImages\\WhatsApp_Image_2024-11-07_at_15.05.18-removebg-preview.png",
+      "PackagePath": "staticwebassets\\KBMImages\\WhatsApp_Image_2024-11-07_at_15.05.18-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\Linearicons.ttf",
+      "PackagePath": "staticwebassets\\font\\Linearicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\font\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\fontello.woff2",
+      "PackagePath": "staticwebassets\\font\\fontello.woff2"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\Linearicons.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\Linearicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\fontello.eot",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\fontello.svg",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\fontello.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\fontello.woff",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\fontello.woff2",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\fontello.woff2"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-arrows-10-1.eot",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-arrows-10-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-arrows-10.eot",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-arrows-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-arrows-10.svg",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-arrows-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-arrows-10.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-arrows-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-arrows-10.woff",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-arrows-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10-1.eot",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.eot",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.svg",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.woff",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-basic\\fonts\\linea-basic-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\linea-basic\\styles.css",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\linea-basic\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\fonts\\styles.css",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\fonts\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-arrows\\styles.css",
+      "PackagePath": "staticwebassets\\font\\linea-arrows\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-basic\\fonts\\linea-basic-10-1.eot",
+      "PackagePath": "staticwebassets\\font\\linea-basic\\fonts\\linea-basic-10-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-basic\\fonts\\linea-basic-10.eot",
+      "PackagePath": "staticwebassets\\font\\linea-basic\\fonts\\linea-basic-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-basic\\fonts\\linea-basic-10.svg",
+      "PackagePath": "staticwebassets\\font\\linea-basic\\fonts\\linea-basic-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-basic\\fonts\\linea-basic-10.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-basic\\fonts\\linea-basic-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-basic\\fonts\\linea-basic-10.woff",
+      "PackagePath": "staticwebassets\\font\\linea-basic\\fonts\\linea-basic-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-basic\\styles.css",
+      "PackagePath": "staticwebassets\\font\\linea-basic\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\font\\linea-ecommerce-10-1.eot",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\font\\linea-ecommerce-10-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\font\\linea-ecommerce-10.eot",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\font\\linea-ecommerce-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\font\\linea-ecommerce-10.svg",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\font\\linea-ecommerce-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\font\\linea-ecommerce-10.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\font\\linea-ecommerce-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\font\\linea-ecommerce-10.woff",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\font\\linea-ecommerce-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10-1.eot",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.eot",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.svg",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.ttf",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.woff",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\fonts\\linea-ecommerce-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\font\\linea-ecommerce\\styles.css",
+      "PackagePath": "staticwebassets\\font\\linea-ecommerce\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\15x16_icon1.jpg",
+      "PackagePath": "staticwebassets\\images\\15x16_icon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\15x16_icon2.jpg",
+      "PackagePath": "staticwebassets\\images\\15x16_icon2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\15x16_icon3.jpg",
+      "PackagePath": "staticwebassets\\images\\15x16_icon3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\15x16_icon4.jpg",
+      "PackagePath": "staticwebassets\\images\\15x16_icon4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\15x16_icon5.jpg",
+      "PackagePath": "staticwebassets\\images\\15x16_icon5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\15x16_icon6.jpg",
+      "PackagePath": "staticwebassets\\images\\15x16_icon6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\BijayKumarMahto.jpeg",
+      "PackagePath": "staticwebassets\\images\\BijayKumarMahto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\BirjuMahto.jpeg",
+      "PackagePath": "staticwebassets\\images\\BirjuMahto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Emp.jpeg",
+      "PackagePath": "staticwebassets\\images\\Emp.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Environment.jpeg",
+      "PackagePath": "staticwebassets\\images\\Environment.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Homeslider\\JLKM.png",
+      "PackagePath": "staticwebassets\\images\\Homeslider\\JLKM.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Homeslider\\slider1.png",
+      "PackagePath": "staticwebassets\\images\\Homeslider\\slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Homeslider\\slider2.png",
+      "PackagePath": "staticwebassets\\images\\Homeslider\\slider2.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Homeslider\\slider3.png",
+      "PackagePath": "staticwebassets\\images\\Homeslider\\slider3.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Homeslider\\slider4.png",
+      "PackagePath": "staticwebassets\\images\\Homeslider\\slider4.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\Candidate\\jairam.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\Candidate\\jairam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\Candidate\\jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\Candidate\\jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\Candidate\\motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\Candidate\\motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\Candidate\\motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\Candidate\\motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\Candidate\\vikash.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\Candidate\\vikash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\JLKM_LOGO.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\JLKM_LOGO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\jlkm.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\jlkm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\qr_code.png",
+      "PackagePath": "staticwebassets\\images\\JLKM\\qr_code.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\round_logo.jpg",
+      "PackagePath": "staticwebassets\\images\\JLKM\\round_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\JLKM\\round_logo.png",
+      "PackagePath": "staticwebassets\\images\\JLKM\\round_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Jairam image.jpg",
+      "PackagePath": "staticwebassets\\images\\Jairam image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Man.jpg",
+      "PackagePath": "staticwebassets\\images\\Man.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\PradeepKumar.jpeg",
+      "PackagePath": "staticwebassets\\images\\PradeepKumar.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\0324b5cc-7409-4538-8142-9706d8ee74d4.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\0324b5cc-7409-4538-8142-9706d8ee74d4.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\03f1ff21-992e-4530-84a8-13b49d6c15fc_IMG_0355.JPG",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\03f1ff21-992e-4530-84a8-13b49d6c15fc_IMG_0355.JPG"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\09ae4a36-d135-4a29-8528-306586f271b6_naresh.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\09ae4a36-d135-4a29-8528-306586f271b6_naresh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\0a0b269f-416e-4409-9637-a5990470b66b_Pramod_Kumar_Ray.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\0a0b269f-416e-4409-9637-a5990470b66b_Pramod_Kumar_Ray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\0e29ca96-2f10-4059-abc9-a0d5737aa751_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\0e29ca96-2f10-4059-abc9-a0d5737aa751_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\14ff4967-a98e-4d22-8764-db3f7092792f_mun.jpeg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\14ff4967-a98e-4d22-8764-db3f7092792f_mun.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\1541dfea-4edd-4282-8db1-f6382a7f87d9_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\1541dfea-4edd-4282-8db1-f6382a7f87d9_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\1e5216db-7513-4643-8ce3-5fc1cf3846f9_Jairam .jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\1e5216db-7513-4643-8ce3-5fc1cf3846f9_Jairam .jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\20c011bd-db14-438d-94a0-4ecd45dd7573_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\20c011bd-db14-438d-94a0-4ecd45dd7573_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\2664624c-93eb-4225-a893-d385bd2ed1a8_Jairam .jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\2664624c-93eb-4225-a893-d385bd2ed1a8_Jairam .jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\281cf227-4452-4240-8bd7-5deb63dce6e0_jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\281cf227-4452-4240-8bd7-5deb63dce6e0_jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\28ebc5f7-a0ec-4789-8154-f50770e3f498_goal.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\28ebc5f7-a0ec-4789-8154-f50770e3f498_goal.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\29d2552b-6dcd-43c0-838f-9af1dd2bb9f5_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\29d2552b-6dcd-43c0-838f-9af1dd2bb9f5_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\2a94a4e9-a97c-4429-8916-b130965c8c9d_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\2a94a4e9-a97c-4429-8916-b130965c8c9d_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\2ac4c830-ef40-4328-a212-5f3ffb9b3d1e_Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\2ac4c830-ef40-4328-a212-5f3ffb9b3d1e_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\32c87b4c-63d0-42d1-903c-d80471eb5a62_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\32c87b4c-63d0-42d1-903c-d80471eb5a62_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\35f6d039-6f7d-4a4d-8209-b21c6d38a64d_jairam.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\35f6d039-6f7d-4a4d-8209-b21c6d38a64d_jairam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\38c73768-5ca4-4ab6-8fb6-5d169822d221_jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\38c73768-5ca4-4ab6-8fb6-5d169822d221_jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\3a10943d-8f78-4870-80fc-d9c675c73da1_IMG_20220530_092111.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\3a10943d-8f78-4870-80fc-d9c675c73da1_IMG_20220530_092111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\3a594885-7eb0-427d-8e2b-c598bd7a4a9d_pic.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\3a594885-7eb0-427d-8e2b-c598bd7a4a9d_pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\3d7cf8b3-eab2-47a2-92c5-c7bb0a4569bb_Quotefancy-8120700-3840x2160.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\3d7cf8b3-eab2-47a2-92c5-c7bb0a4569bb_Quotefancy-8120700-3840x2160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\3f52628d-18f9-4e9a-83e5-c1bf3ed06075_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\3f52628d-18f9-4e9a-83e5-c1bf3ed06075_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\47006c53-f9e9-40f9-b4ee-228234ae3706_redir[2].htm",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\47006c53-f9e9-40f9-b4ee-228234ae3706_redir[2].htm"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\477056ff-8aa1-48df-ab30-c80c8c32974b_jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\477056ff-8aa1-48df-ab30-c80c8c32974b_jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\4adb3ae2-59a9-42a5-b904-8a48908c665d_redir[2].htm",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\4adb3ae2-59a9-42a5-b904-8a48908c665d_redir[2].htm"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\4b9b0d0a-5074-4b0d-b6e6-fa2ed4061a92_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\4b9b0d0a-5074-4b0d-b6e6-fa2ed4061a92_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\4dcb1aba-a9f1-4ebd-935c-34fc9a46b46d_Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\4dcb1aba-a9f1-4ebd-935c-34fc9a46b46d_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\50a7fe18-c726-4a8f-96e0-6721ea074cea_jairam.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\50a7fe18-c726-4a8f-96e0-6721ea074cea_jairam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\5287d713-df46-43a5-9522-5fd0211465c0_goal.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\5287d713-df46-43a5-9522-5fd0211465c0_goal.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\52b4712a-b133-4446-9b59-bda22e2b9816.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\52b4712a-b133-4446-9b59-bda22e2b9816.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\57f7541a-0b09-4243-aeb3-6c391c76267c.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\57f7541a-0b09-4243-aeb3-6c391c76267c.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\587a3954-d059-4e26-b45e-ce0dd6e40963_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\587a3954-d059-4e26-b45e-ce0dd6e40963_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\63728b52-8ef4-47ac-a3cd-692a3382c296_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\63728b52-8ef4-47ac-a3cd-692a3382c296_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\658af56c-3276-4708-bac6-aa01f1ea005c.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\658af56c-3276-4708-bac6-aa01f1ea005c.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\67a1a652-bad2-410c-8033-d1de1355d7e8.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\67a1a652-bad2-410c-8033-d1de1355d7e8.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\6f7b27dc-af7b-4edb-9df6-baa83c0bf2db_naresh.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\6f7b27dc-af7b-4edb-9df6-baa83c0bf2db_naresh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\74299cd4-6e39-413d-beb2-38dbb6d98fd6_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\74299cd4-6e39-413d-beb2-38dbb6d98fd6_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\75aca504-0794-45eb-8dc4-3b02615c1b42_jairam.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\75aca504-0794-45eb-8dc4-3b02615c1b42_jairam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\7bbaaae7-3a49-4faf-9d1a-486df239a008_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\7bbaaae7-3a49-4faf-9d1a-486df239a008_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\830d320f-3ec8-4669-b74e-4beeff1b178a_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\830d320f-3ec8-4669-b74e-4beeff1b178a_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8337f991-64d5-4e80-b64d-8a8772bd8f62_jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8337f991-64d5-4e80-b64d-8a8772bd8f62_jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8395742b-cbdc-464f-b95e-98e554be40aa_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8395742b-cbdc-464f-b95e-98e554be40aa_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\83f7c62e-f703-49d6-a5b0-8ee784143f31.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\83f7c62e-f703-49d6-a5b0-8ee784143f31.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\850d2225-e28f-4e20-abdc-36eb2522614c_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\850d2225-e28f-4e20-abdc-36eb2522614c_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\85dae8d6-9453-497e-9745-b4a724913fbc_Selfie.jpeg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\85dae8d6-9453-497e-9745-b4a724913fbc_Selfie.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8946c0bf-cc81-437d-8e3a-615d0e2c8f0c.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8946c0bf-cc81-437d-8e3a-615d0e2c8f0c.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\895d6079-8295-4001-984c-04dcdfc02b29_redir[1].aspx",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\895d6079-8295-4001-984c-04dcdfc02b29_redir[1].aspx"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8988db5c-28c3-46bb-9d6d-69d9f11f1f89_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8988db5c-28c3-46bb-9d6d-69d9f11f1f89_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8eb80159-8c3b-4111-9fd6-72af40de4c29_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8eb80159-8c3b-4111-9fd6-72af40de4c29_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8ef3f171-ab35-45f6-919d-405f747bd1f2_goal.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8ef3f171-ab35-45f6-919d-405f747bd1f2_goal.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\8f0ff04c-1d26-490c-b875-2b5f88b70d32.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\8f0ff04c-1d26-490c-b875-2b5f88b70d32.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\920ce1c6-9c27-46c7-b1ba-982bda84cf9f_pic.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\920ce1c6-9c27-46c7-b1ba-982bda84cf9f_pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\97c4cca9-c0e6-4281-bd7c-fa109af1a079.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\97c4cca9-c0e6-4281-bd7c-fa109af1a079.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\98907ea7-df45-4176-81d3-2a6ae25a16c3_Pramod_Kumar_Ray.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\98907ea7-df45-4176-81d3-2a6ae25a16c3_Pramod_Kumar_Ray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\9a7dfe85-e88f-44dd-b723-211de1e88393_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\9a7dfe85-e88f-44dd-b723-211de1e88393_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\9a95e9b9-42e0-4496-a33b-d2db3dca31c1_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\9a95e9b9-42e0-4496-a33b-d2db3dca31c1_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\9b79c36d-cb72-4785-9be5-6698bead6126.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\9b79c36d-cb72-4785-9be5-6698bead6126.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\a76a2bc1-df8a-47d2-9575-046c119a6bf9_jlkm.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\a76a2bc1-df8a-47d2-9575-046c119a6bf9_jlkm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\aad9194a-6905-4547-ba54-5a7169b788df_naresh.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\aad9194a-6905-4547-ba54-5a7169b788df_naresh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\ad5044fd-071c-4ec7-ad60-a8bb4ca72a5f.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\ad5044fd-071c-4ec7-ad60-a8bb4ca72a5f.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\b0f5fc19-ae42-44fd-ae66-3b42a1ee1417.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\b0f5fc19-ae42-44fd-ae66-3b42a1ee1417.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\b976a3b4-d3aa-4bf4-8b18-82d3eafa0876_Jairam .jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\b976a3b4-d3aa-4bf4-8b18-82d3eafa0876_Jairam .jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\bc7d0f07-43ed-4f49-940d-0344951626d6.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\bc7d0f07-43ed-4f49-940d-0344951626d6.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\bfceb219-387e-419c-9292-94cb25ae696f_Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\bfceb219-387e-419c-9292-94cb25ae696f_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\c59b4e54-93c4-4c07-b2ff-ab89c9a61b6f_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\c59b4e54-93c4-4c07-b2ff-ab89c9a61b6f_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\c6a1cc77-9e60-4772-8816-d2172b1e1e67_Pramod_Kumar_Ray.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\c6a1cc77-9e60-4772-8816-d2172b1e1e67_Pramod_Kumar_Ray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\c867341c-b582-44f8-addb-5abd4ef420aa.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\c867341c-b582-44f8-addb-5abd4ef420aa.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\cab88b1c-0910-447e-8cde-7e62dc6f142c.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\cab88b1c-0910-447e-8cde-7e62dc6f142c.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\da042246-f5a8-4fd7-a3bc-2ec9bef452d0.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\da042246-f5a8-4fd7-a3bc-2ec9bef452d0.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\da2e2512-4a1e-4268-ae3d-f54cee736f70_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\da2e2512-4a1e-4268-ae3d-f54cee736f70_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\da37ae75-1bf7-40f8-8dc7-80ce26a3cc3d_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\da37ae75-1bf7-40f8-8dc7-80ce26a3cc3d_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\daa718db-ee64-4eb2-9bd3-b2eaa0dc0730_Jairam .jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\daa718db-ee64-4eb2-9bd3-b2eaa0dc0730_Jairam .jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\dummy.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\dummy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\e0828d93-82cb-4dfd-a865-f005c102d5a9_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\e0828d93-82cb-4dfd-a865-f005c102d5a9_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\e1563076-813e-4858-8a44-7c103239227f_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\e1563076-813e-4858-8a44-7c103239227f_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\e157d316-f4ae-4bca-a10d-709a22ea1a9e_IMG_20220530_092111.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\e157d316-f4ae-4bca-a10d-709a22ea1a9e_IMG_20220530_092111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\e1c45163-678f-4f75-80ae-e1288a0adce5_jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\e1c45163-678f-4f75-80ae-e1288a0adce5_jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\e40724c3-124d-496d-9654-2becb76bc6b1_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\e40724c3-124d-496d-9654-2becb76bc6b1_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\ed5edf3a-7a94-471e-b369-556c2ec087cb_IMG_20220530_092111.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\ed5edf3a-7a94-471e-b369-556c2ec087cb_IMG_20220530_092111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\ee701729-6cd8-463a-b3dd-b9cb621426ad_motilal.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\ee701729-6cd8-463a-b3dd-b9cb621426ad_motilal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\f0bfbac5-f9a8-45a0-8f2d-42763d9b1d9f_jairammahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\f0bfbac5-f9a8-45a0-8f2d-42763d9b1d9f_jairammahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\f4e18c28-ddd9-4a8e-b0e2-108fa4784b79_Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\f4e18c28-ddd9-4a8e-b0e2-108fa4784b79_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\f5cc8023-b15d-4a47-a017-40e55d2fe52b_Jairam .jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\f5cc8023-b15d-4a47-a017-40e55d2fe52b_Jairam .jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\fa759618-2d4a-48e8-9b24-8348024db3b0_Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\fa759618-2d4a-48e8-9b24-8348024db3b0_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\fbf1b64d-3b7a-40a8-80f0-887f97043715_IMG_20220530_092111.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\fbf1b64d-3b7a-40a8-80f0-887f97043715_IMG_20220530_092111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\fcd63435-5009-4cf5-8982-ef7b13512b2d_Untitled.png",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\fcd63435-5009-4cf5-8982-ef7b13512b2d_Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\fe138dbd-2937-4cee-bac1-07fbac109950_jairam.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\fe138dbd-2937-4cee-bac1-07fbac109950_jairam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\fec93656-13dd-44f0-b29b-b51f5745f333_motilalmahto.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\fec93656-13dd-44f0-b29b-b51f5745f333_motilalmahto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ProfilePhoto\\unknown.jpeg",
+      "PackagePath": "staticwebassets\\images\\ProfilePhoto\\unknown.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Sports.jpeg",
+      "PackagePath": "staticwebassets\\images\\Sports.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\T JAIRAM.jpg",
+      "PackagePath": "staticwebassets\\images\\T JAIRAM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\Vivek Tiwary.jpg.png",
+      "PackagePath": "staticwebassets\\images\\Vivek Tiwary.jpg.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\congress.jpg",
+      "PackagePath": "staticwebassets\\images\\congress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\contactus.jpg",
+      "PackagePath": "staticwebassets\\images\\contactus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\e.png.png",
+      "PackagePath": "staticwebassets\\images\\e.png.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\ed.png.png",
+      "PackagePath": "staticwebassets\\images\\ed.png.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\edu.jpeg",
+      "PackagePath": "staticwebassets\\images\\edu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\er.png.png",
+      "PackagePath": "staticwebassets\\images\\er.png.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\event.jpeg",
+      "PackagePath": "staticwebassets\\images\\event.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\h.png.png",
+      "PackagePath": "staticwebassets\\images\\h.png.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\health.jpg",
+      "PackagePath": "staticwebassets\\images\\health.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\jai images.jpeg",
+      "PackagePath": "staticwebassets\\images\\jai images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\loader.jpg",
+      "PackagePath": "staticwebassets\\images\\loader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\logo4.png",
+      "PackagePath": "staticwebassets\\images\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\memberpage.jpg",
+      "PackagePath": "staticwebassets\\images\\memberpage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\phone-1.svg",
+      "PackagePath": "staticwebassets\\images\\phone-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\popup.png",
+      "PackagePath": "staticwebassets\\images\\popup.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\r.png.png",
+      "PackagePath": "staticwebassets\\images\\r.png.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\s.png.png",
+      "PackagePath": "staticwebassets\\images\\s.png.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\suchana.jpg",
+      "PackagePath": "staticwebassets\\images\\suchana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\whatsapp.svg",
+      "PackagePath": "staticwebassets\\images\\whatsapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\images\\चुनाव_चिन्ह_(3)[1].png",
+      "PackagePath": "staticwebassets\\images\\चुनाव_चिन्ह_(3)[1].png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\jlkm\\member.js",
+      "PackagePath": "staticwebassets\\js\\jlkm\\member.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\libs\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\libs\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\libs\\jquery.modernizr.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jquery.modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\libs\\retina.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\retina.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\elevatezoom.min.js",
+      "PackagePath": "staticwebassets\\plugins\\elevatezoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\fancybox\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\plugins\\fancybox\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\fancybox\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fancybox\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\flickr.js",
+      "PackagePath": "staticwebassets\\plugins\\flickr.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\plugins\\instafeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\jquery.queryloader2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery.queryloader2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\justifiedGallery\\jquery.justifiedGallery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\justifiedGallery\\jquery.justifiedGallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\justifiedGallery\\justifiedGallery.min.css",
+      "PackagePath": "staticwebassets\\plugins\\justifiedGallery\\justifiedGallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\plugins\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\packery-mode.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\packery-mode.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\css\\closedhand.cur",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\css\\closedhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\css\\openhand.cur",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\css\\openhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\elevatezoom.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\elevatezoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\flickr.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\flickr.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\instafeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\jquery.queryloader2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\jquery.queryloader2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\packery-mode.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\packery-mode.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\revolution\\sticky-sidebar.js",
+      "PackagePath": "staticwebassets\\plugins\\revolution\\sticky-sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\monuk\\OneDrive\\Desktop\\Office work\\KBM.UI responsive\\KBM.UI 11-11-2024\\KBM.UI\\KBM.UI\\wwwroot\\plugins\\sticky-sidebar.js",
+      "PackagePath": "staticwebassets\\plugins\\sticky-sidebar.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KBM.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KBM.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KBM.UI.props",
+      "PackagePath": "build\\KBM.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KBM.UI.props",
+      "PackagePath": "buildMultiTargeting\\KBM.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KBM.UI.props",
+      "PackagePath": "buildTransitive\\KBM.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
